@@ -1,0 +1,32 @@
+C:\Users\IAN\Desktop\prog2\bin\Debug\prog2.exe.config
+C:\Users\IAN\Desktop\prog2\bin\Debug\prog2.exe
+C:\Users\IAN\Desktop\prog2\bin\Debug\prog2.pdb
+C:\Users\IAN\Desktop\prog2\obj\Debug\prog2.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\prog2\obj\Debug\prog2.Form1.resources
+C:\Users\IAN\Desktop\prog2\obj\Debug\prog2.Properties.Resources.resources
+C:\Users\IAN\Desktop\prog2\obj\Debug\prog2.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\prog2\obj\Debug\prog2.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\prog2\obj\Debug\prog2.exe
+C:\Users\IAN\Desktop\prog2\obj\Debug\prog2.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\prog2\bin\Debug\prog2.exe.config
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\prog2\bin\Debug\prog2.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\prog2\bin\Debug\prog2.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\prog2\obj\Debug\prog2.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\prog2\obj\Debug\prog2.csproj.SuggestedBindingRedirects.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\prog2\obj\Debug\prog2.Form1.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\prog2\obj\Debug\prog2.Properties.Resources.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\prog2\obj\Debug\prog2.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\prog2\obj\Debug\prog2.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\prog2\obj\Debug\prog2.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\prog2\obj\Debug\prog2.pdb
+D:\PROJECTS\My projects\C#\My projects\Windows forms\GradeInTranscript\bin\Debug\prog2.exe.config
+D:\PROJECTS\My projects\C#\My projects\Windows forms\GradeInTranscript\bin\Debug\prog2.exe
+D:\PROJECTS\My projects\C#\My projects\Windows forms\GradeInTranscript\bin\Debug\prog2.pdb
+D:\PROJECTS\My projects\C#\My projects\Windows forms\GradeInTranscript\obj\Debug\prog2.csproj.AssemblyReference.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\GradeInTranscript\obj\Debug\prog2.csproj.SuggestedBindingRedirects.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\GradeInTranscript\obj\Debug\prog2.Form1.resources
+D:\PROJECTS\My projects\C#\My projects\Windows forms\GradeInTranscript\obj\Debug\prog2.Properties.Resources.resources
+D:\PROJECTS\My projects\C#\My projects\Windows forms\GradeInTranscript\obj\Debug\prog2.csproj.GenerateResource.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\GradeInTranscript\obj\Debug\prog2.csproj.CoreCompileInputs.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\GradeInTranscript\obj\Debug\prog2.exe
+D:\PROJECTS\My projects\C#\My projects\Windows forms\GradeInTranscript\obj\Debug\prog2.pdb

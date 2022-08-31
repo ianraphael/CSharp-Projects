@@ -1,0 +1,32 @@
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\bin\Debug\netcoreapp3.1\StringDetailer.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\bin\Debug\netcoreapp3.1\StringDetailer.deps.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\bin\Debug\netcoreapp3.1\StringDetailer.runtimeconfig.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\bin\Debug\netcoreapp3.1\StringDetailer.runtimeconfig.dev.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\bin\Debug\netcoreapp3.1\StringDetailer.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\bin\Debug\netcoreapp3.1\StringDetailer.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.Form1.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.AssemblyInfoInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.AssemblyInfo.cs
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.genruntimeconfig.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\bin\Debug\netcoreapp3.1\StringDetailer.exe
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\bin\Debug\netcoreapp3.1\StringDetailer.deps.json
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\bin\Debug\netcoreapp3.1\StringDetailer.runtimeconfig.json
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\bin\Debug\netcoreapp3.1\StringDetailer.runtimeconfig.dev.json
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\bin\Debug\netcoreapp3.1\StringDetailer.dll
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\bin\Debug\netcoreapp3.1\StringDetailer.pdb
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.csproj.AssemblyReference.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.Form1.resources
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.csproj.GenerateResource.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.AssemblyInfoInputs.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.AssemblyInfo.cs
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.csproj.CoreCompileInputs.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.dll
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.pdb
+D:\PROJECTS\My projects\C#\My projects\Windows forms\StringDetailer\StringDetailer\obj\Debug\netcoreapp3.1\StringDetailer.genruntimeconfig.cache

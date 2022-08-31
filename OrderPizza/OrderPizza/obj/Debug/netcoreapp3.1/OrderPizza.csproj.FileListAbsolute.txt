@@ -1,0 +1,32 @@
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\bin\Debug\netcoreapp3.1\OrderPizza.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\bin\Debug\netcoreapp3.1\OrderPizza.deps.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\bin\Debug\netcoreapp3.1\OrderPizza.runtimeconfig.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\bin\Debug\netcoreapp3.1\OrderPizza.runtimeconfig.dev.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\bin\Debug\netcoreapp3.1\OrderPizza.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\bin\Debug\netcoreapp3.1\OrderPizza.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.Form1.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.AssemblyInfoInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.AssemblyInfo.cs
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.genruntimeconfig.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\bin\Debug\netcoreapp3.1\OrderPizza.exe
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\bin\Debug\netcoreapp3.1\OrderPizza.deps.json
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\bin\Debug\netcoreapp3.1\OrderPizza.runtimeconfig.json
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\bin\Debug\netcoreapp3.1\OrderPizza.runtimeconfig.dev.json
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\bin\Debug\netcoreapp3.1\OrderPizza.dll
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\bin\Debug\netcoreapp3.1\OrderPizza.pdb
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.csproj.AssemblyReference.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.Form1.resources
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.csproj.GenerateResource.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.AssemblyInfoInputs.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.AssemblyInfo.cs
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.csproj.CoreCompileInputs.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.dll
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.pdb
+D:\PROJECTS\My projects\C#\My projects\Windows forms\OrderPizza\OrderPizza\obj\Debug\netcoreapp3.1\OrderPizza.genruntimeconfig.cache

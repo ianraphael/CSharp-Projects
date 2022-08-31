@@ -1,0 +1,16 @@
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\bin\Debug\netcoreapp3.1\FinalExercise1.exe
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\bin\Debug\netcoreapp3.1\FinalExercise1.deps.json
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\bin\Debug\netcoreapp3.1\FinalExercise1.runtimeconfig.json
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\bin\Debug\netcoreapp3.1\FinalExercise1.runtimeconfig.dev.json
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\bin\Debug\netcoreapp3.1\FinalExercise1.dll
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\bin\Debug\netcoreapp3.1\FinalExercise1.pdb
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\obj\Debug\netcoreapp3.1\FinalExercise1.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\obj\Debug\netcoreapp3.1\FinalExercise1.Form1.resources
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\obj\Debug\netcoreapp3.1\FinalExercise1.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\obj\Debug\netcoreapp3.1\FinalExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\obj\Debug\netcoreapp3.1\FinalExercise1.AssemblyInfoInputs.cache
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\obj\Debug\netcoreapp3.1\FinalExercise1.AssemblyInfo.cs
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\obj\Debug\netcoreapp3.1\FinalExercise1.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\obj\Debug\netcoreapp3.1\FinalExercise1.dll
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\obj\Debug\netcoreapp3.1\FinalExercise1.pdb
+C:\Users\IAN\Desktop\FinalExercise1\FinalExercise1\obj\Debug\netcoreapp3.1\FinalExercise1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.Form1.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache

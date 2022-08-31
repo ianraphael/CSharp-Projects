@@ -1,0 +1,32 @@
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.deps.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.runtimeconfig.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.runtimeconfig.dev.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.Form1.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.AssemblyInfoInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.AssemblyInfo.cs
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.genruntimeconfig.cache
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.exe
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.deps.json
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.runtimeconfig.json
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.runtimeconfig.dev.json
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.dll
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.pdb
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.csproj.AssemblyReference.cache
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.Form1.resources
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.csproj.GenerateResource.cache
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.AssemblyInfoInputs.cache
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.AssemblyInfo.cs
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.dll
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.pdb
+D:\PROJECTS\C#\My projects\Windows forms\AreaOfTriangle\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.genruntimeconfig.cache

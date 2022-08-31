@@ -1,0 +1,16 @@
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\bin\Debug\netcoreapp3.1\CounterApp.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\bin\Debug\netcoreapp3.1\CounterApp.deps.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\bin\Debug\netcoreapp3.1\CounterApp.runtimeconfig.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\bin\Debug\netcoreapp3.1\CounterApp.runtimeconfig.dev.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\bin\Debug\netcoreapp3.1\CounterApp.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\bin\Debug\netcoreapp3.1\CounterApp.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\obj\Debug\netcoreapp3.1\CounterApp.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\obj\Debug\netcoreapp3.1\CounterApp.Form1.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\obj\Debug\netcoreapp3.1\CounterApp.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\obj\Debug\netcoreapp3.1\CounterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\obj\Debug\netcoreapp3.1\CounterApp.AssemblyInfoInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\obj\Debug\netcoreapp3.1\CounterApp.AssemblyInfo.cs
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\obj\Debug\netcoreapp3.1\CounterApp.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\obj\Debug\netcoreapp3.1\CounterApp.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\obj\Debug\netcoreapp3.1\CounterApp.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\CounterApp\CounterApp\obj\Debug\netcoreapp3.1\CounterApp.genruntimeconfig.cache

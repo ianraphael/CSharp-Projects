@@ -1,0 +1,16 @@
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\bin\Debug\netcoreapp3.1\Continents.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\bin\Debug\netcoreapp3.1\Continents.deps.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\bin\Debug\netcoreapp3.1\Continents.runtimeconfig.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\bin\Debug\netcoreapp3.1\Continents.runtimeconfig.dev.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\bin\Debug\netcoreapp3.1\Continents.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\bin\Debug\netcoreapp3.1\Continents.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\obj\Debug\netcoreapp3.1\Continents.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\obj\Debug\netcoreapp3.1\Continents.Form1.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\obj\Debug\netcoreapp3.1\Continents.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\obj\Debug\netcoreapp3.1\Continents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\obj\Debug\netcoreapp3.1\Continents.AssemblyInfoInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\obj\Debug\netcoreapp3.1\Continents.AssemblyInfo.cs
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\obj\Debug\netcoreapp3.1\Continents.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\obj\Debug\netcoreapp3.1\Continents.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\obj\Debug\netcoreapp3.1\Continents.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Continents\Continents\obj\Debug\netcoreapp3.1\Continents.genruntimeconfig.cache

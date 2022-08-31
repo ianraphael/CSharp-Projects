@@ -1,0 +1,16 @@
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\bin\Debug\netcoreapp3.1\AdditioApp.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\bin\Debug\netcoreapp3.1\AdditioApp.deps.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\bin\Debug\netcoreapp3.1\AdditioApp.runtimeconfig.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\bin\Debug\netcoreapp3.1\AdditioApp.runtimeconfig.dev.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\bin\Debug\netcoreapp3.1\AdditioApp.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\bin\Debug\netcoreapp3.1\AdditioApp.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\obj\Debug\netcoreapp3.1\AdditioApp.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\obj\Debug\netcoreapp3.1\AdditioApp.Form1.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\obj\Debug\netcoreapp3.1\AdditioApp.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\obj\Debug\netcoreapp3.1\AdditioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\obj\Debug\netcoreapp3.1\AdditioApp.AssemblyInfoInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\obj\Debug\netcoreapp3.1\AdditioApp.AssemblyInfo.cs
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\obj\Debug\netcoreapp3.1\AdditioApp.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\obj\Debug\netcoreapp3.1\AdditioApp.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\obj\Debug\netcoreapp3.1\AdditioApp.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\AdditioApp\AdditioApp\obj\Debug\netcoreapp3.1\AdditioApp.genruntimeconfig.cache

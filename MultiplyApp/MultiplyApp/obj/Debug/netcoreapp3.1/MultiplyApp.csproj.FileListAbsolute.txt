@@ -1,0 +1,16 @@
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\bin\Debug\netcoreapp3.1\MultiplyApp.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\bin\Debug\netcoreapp3.1\MultiplyApp.deps.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\bin\Debug\netcoreapp3.1\MultiplyApp.runtimeconfig.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\bin\Debug\netcoreapp3.1\MultiplyApp.runtimeconfig.dev.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\bin\Debug\netcoreapp3.1\MultiplyApp.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\bin\Debug\netcoreapp3.1\MultiplyApp.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\obj\Debug\netcoreapp3.1\MultiplyApp.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\obj\Debug\netcoreapp3.1\MultiplyApp.Form1.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\obj\Debug\netcoreapp3.1\MultiplyApp.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\obj\Debug\netcoreapp3.1\MultiplyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\obj\Debug\netcoreapp3.1\MultiplyApp.AssemblyInfoInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\obj\Debug\netcoreapp3.1\MultiplyApp.AssemblyInfo.cs
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\obj\Debug\netcoreapp3.1\MultiplyApp.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\obj\Debug\netcoreapp3.1\MultiplyApp.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\obj\Debug\netcoreapp3.1\MultiplyApp.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\MultiplyApp\MultiplyApp\obj\Debug\netcoreapp3.1\MultiplyApp.genruntimeconfig.cache

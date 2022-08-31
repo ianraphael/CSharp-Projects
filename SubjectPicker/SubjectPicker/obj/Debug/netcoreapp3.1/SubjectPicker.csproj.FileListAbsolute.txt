@@ -1,0 +1,32 @@
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\bin\Debug\netcoreapp3.1\SubjectPicker.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\bin\Debug\netcoreapp3.1\SubjectPicker.deps.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\bin\Debug\netcoreapp3.1\SubjectPicker.runtimeconfig.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\bin\Debug\netcoreapp3.1\SubjectPicker.runtimeconfig.dev.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\bin\Debug\netcoreapp3.1\SubjectPicker.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\bin\Debug\netcoreapp3.1\SubjectPicker.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.Form1.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.AssemblyInfoInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.AssemblyInfo.cs
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.genruntimeconfig.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\bin\Debug\netcoreapp3.1\SubjectPicker.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\bin\Debug\netcoreapp3.1\SubjectPicker.deps.json
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\bin\Debug\netcoreapp3.1\SubjectPicker.runtimeconfig.json
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\bin\Debug\netcoreapp3.1\SubjectPicker.runtimeconfig.dev.json
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\bin\Debug\netcoreapp3.1\SubjectPicker.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\bin\Debug\netcoreapp3.1\SubjectPicker.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.Form1.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.AssemblyInfoInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.AssemblyInfo.cs
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\My projects\Windows forms\SubjectPicker\SubjectPicker\obj\Debug\netcoreapp3.1\SubjectPicker.genruntimeconfig.cache

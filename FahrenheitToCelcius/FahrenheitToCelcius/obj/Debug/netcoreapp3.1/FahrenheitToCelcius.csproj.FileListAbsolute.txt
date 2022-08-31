@@ -1,0 +1,16 @@
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\bin\Debug\netcoreapp3.1\FahrenheitToCelcius.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\bin\Debug\netcoreapp3.1\FahrenheitToCelcius.deps.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\bin\Debug\netcoreapp3.1\FahrenheitToCelcius.runtimeconfig.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\bin\Debug\netcoreapp3.1\FahrenheitToCelcius.runtimeconfig.dev.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\bin\Debug\netcoreapp3.1\FahrenheitToCelcius.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\bin\Debug\netcoreapp3.1\FahrenheitToCelcius.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp3.1\FahrenheitToCelcius.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp3.1\FahrenheitToCelcius.Form1.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp3.1\FahrenheitToCelcius.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp3.1\FahrenheitToCelcius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp3.1\FahrenheitToCelcius.AssemblyInfoInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp3.1\FahrenheitToCelcius.AssemblyInfo.cs
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp3.1\FahrenheitToCelcius.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp3.1\FahrenheitToCelcius.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp3.1\FahrenheitToCelcius.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp3.1\FahrenheitToCelcius.genruntimeconfig.cache

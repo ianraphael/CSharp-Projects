@@ -1,0 +1,32 @@
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\bin\Debug\netcoreapp3.1\Numbergame.exe
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\bin\Debug\netcoreapp3.1\Numbergame.deps.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\bin\Debug\netcoreapp3.1\Numbergame.runtimeconfig.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\bin\Debug\netcoreapp3.1\Numbergame.runtimeconfig.dev.json
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\bin\Debug\netcoreapp3.1\Numbergame.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\bin\Debug\netcoreapp3.1\Numbergame.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.Form1.resources
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.AssemblyInfoInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.AssemblyInfo.cs
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.dll
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.pdb
+C:\Users\IAN\Desktop\PROJECTS\C#\Miya Projects\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.genruntimeconfig.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\bin\Debug\netcoreapp3.1\Numbergame.exe
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\bin\Debug\netcoreapp3.1\Numbergame.deps.json
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\bin\Debug\netcoreapp3.1\Numbergame.runtimeconfig.json
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\bin\Debug\netcoreapp3.1\Numbergame.runtimeconfig.dev.json
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\bin\Debug\netcoreapp3.1\Numbergame.dll
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\bin\Debug\netcoreapp3.1\Numbergame.pdb
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.csproj.AssemblyReference.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.Form1.resources
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.csproj.GenerateResource.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.AssemblyInfoInputs.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.AssemblyInfo.cs
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.csproj.CoreCompileInputs.cache
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.dll
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.pdb
+D:\PROJECTS\My projects\C#\My projects\Windows forms\Numbergame\Numbergame\obj\Debug\netcoreapp3.1\Numbergame.genruntimeconfig.cache
